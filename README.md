@@ -1,23 +1,10 @@
 
-ppppp   ppppppppp       ssssssssss       cccccccccccccccc
-p::::ppp:::::::::p    ss::::::::::s    cc:::::::::::::::c
-p:::::::::::::::::p ss:::::::::::::s  c:::::::::::::::::c
-pp::::::ppppp::::::ps::::::ssss:::::sc:::::::cccccc:::::c
- p:::::p     p:::::p s:::::s  ssssss c::::::c     ccccccc
- p:::::p     p:::::p   s::::::s      c:::::c             
- p:::::p     p:::::p      s::::::s   c:::::c             
- p:::::p    p::::::pssssss   s:::::s c::::::c     ccccccc
- p:::::ppppp:::::::ps:::::ssss::::::sc:::::::cccccc:::::c
- p::::::::::::::::p s::::::::::::::s  c:::::::::::::::::c
- p::::::::::::::pp   s:::::::::::ss    cc:::::::::::::::c
- p::::::pppppppp      sssssssssss        cccccccccccccccc
- p:::::p                                                 
- p:::::p                                                 
-p:::::::p                                                
-p:::::::p                                                
-p:::::::p                                                
-ppppppppp                                                
-            
+   dBBBBBb.dBBBBP   dBBBP
+       dB'BP             
+   dBBBP' `BBBBb  dBP    
+  dBP        dBP dBP     
+ dBP    dBBBBP' dBBBBP   
+                         
                               
                               
 
