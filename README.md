@@ -1,9 +1,14 @@
 
-   dBBBBBb.dBBBBP   dBBBP
-       dB'BP             
-   dBBBP' `BBBBb  dBP    
-  dBP        dBP dBP     
- dBP    dBBBBP' dBBBBP   
+                                    
+                                    
+     
+██████╗░░██████╗░██████╗
+██╔══██╗██╔════╝██╔════╝
+██████╔╝╚█████╗░╚█████╗░
+██╔═══╝░░╚═══██╗░╚═══██╗
+██║░░░░░██████╔╝██████╔╝
+╚═╝░░░░░╚═════╝░╚═════╝░
+                                    
                          
                               
                               
@@ -17,7 +22,7 @@ A comprehensive and secure password strength checker that evaluates the strength
  This tool helps users create stronger passwords by providing detailed feedback and actionable suggestions.
 This Password Checker project is designed to assess the strength of passwords and identify potential security risks. It includes the following features:
 
-    Check Weak/Strong Password
+    Check for  Weak/Strong Password
 
 ##  How To Run
 ```bash
