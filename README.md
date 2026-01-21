@@ -51,7 +51,7 @@
 ## Overview
 
 
-PSS is a comprehensive and secure password strength checker made with python that evaluates the strength of a password based on multiple factors such as length.
+PSC is a comprehensive and secure password strength checker made with python that evaluates the strength of a password based on multiple factors such as length.
  This tool helps users create stronger passwords by providing detailed feedback and actionable suggestions.
 This Password Checker project is designed to assess the strength of passwords . It includes the following features:
 
