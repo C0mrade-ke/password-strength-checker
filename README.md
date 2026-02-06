@@ -87,7 +87,7 @@ This project is for **educational purposes only**.
 DO NOT use this tool to test passwords that you do not own or have permission to evaluate.  
 
 The author  is **not responsible** for misuse of this software.  
-Use responsibly and legally.
+Use responsibly and legally..
 
 
 ----
