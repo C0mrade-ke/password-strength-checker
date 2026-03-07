@@ -58,7 +58,7 @@ This Password Checker project is designed to assess the strength of passwords . 
     Check for  Weak/Strong Password
     Gives suggestions on creating stronger passwords
 
-<img src="https://media.giphy.com/media/orbTdyh35XDlx7IXfQ/giphy.gif" width="500"/>
+<img src="https://media.tenor.com/mwv8NElxYB4AAAAM/password-trash.gif" width="500"/>
 
 ---
 
