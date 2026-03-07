@@ -58,6 +58,9 @@ This Password Checker project is designed to assess the strength of passwords . 
     Check for  Weak/Strong Password
     Gives suggestions on creating stronger passwords
 
+  ---  
+  ## You after scanning your old Passwords
+
 <img src="https://media.tenor.com/mwv8NElxYB4AAAAM/password-trash.gif" width="500"/>
 
 ---
